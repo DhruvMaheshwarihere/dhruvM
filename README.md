@@ -1,4 +1,3 @@
 # dhruvM
-this is on of my repository
-<br>
-Author-Dhruv (Maheshswari)
+# To-Do List Project
+This project helps organize and manage your tasks efficiently.
